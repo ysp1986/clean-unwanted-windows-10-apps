@@ -3,9 +3,9 @@
 fullnamedict = {} #map from main name to full name
 
 with open('packages.txt','rb') as cur_packages_in:
-    lines = cur_packages_in.readlines()
+    lines = cur_packages_in.readlines()[1:]
     for line in lines:
-        line = str(line)
+        line = str(line, encoding = "utf-8")  
         if line.startswith('PackageFullName'):
             line.strip('\r\n')
             fullname = line[line.find(':')+2:]
