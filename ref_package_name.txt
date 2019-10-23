@@ -1,0 +1,15 @@
+Microsoft.WindowsMaps_4.1506.50715.0_x64__8wekyb3d8bbwe
+Microsoft.XboxApp_7.7.21024.0_x64__8wekyb3d8bbwe
+Microsoft.WindowsCamera_5.42.3006.0_x64__8wekyb3d8bbwe
+Microsoft.ZuneMusic_3.6.11821.0_x64__8wekyb3d8bbwe
+Microsoft.ZuneVideo_3.6.11821.0_x64__8wekyb3d8bbwe
+Microsoft.People_1.10241.0.0_x64__8wekyb3d8bbwe
+Microsoft.BingFinance_4.4.200.0_x86__8wekyb3d8bbwe
+microsoft.windowscommunicationsapps_17.6020.42011.0_x64__8wekyb3d8bbwe
+Microsoft.MicrosoftSolitaireCollection_3.2.7240.0_x64__8wekyb3d8bbwe
+Microsoft.MicrosoftEdge_20.10240.16384.0_neutral__8wekyb3d8bbwe
+Microsoft.WindowsSoundRecorder_10.1507.7010.0_x64__8wekyb3d8bbwe
+Microsoft.BingWeather_8wekyb3d8bbwe
+Microsoft.Windows.Photos_8wekyb3d8bbwe
+Microsoft.WindowsCalculator_8wekyb3d8bbwe
+Microsoft.Office.OneNote_8wekyb3d8bbwe
